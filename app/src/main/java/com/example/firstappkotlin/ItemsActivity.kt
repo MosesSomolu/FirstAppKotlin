@@ -50,6 +50,8 @@ class ItemsActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelect
         setSupportActionBar(toolbar)
 
         uselessFunction()
+        uselessFunction()
+        uselessFunction()
 
         handleDisplaySelection(viewModel.navDrawerDisplaySelection)
 
